@@ -1,0 +1,14 @@
+*/Intermediate
+*/Build
+*/Binaries
+*/Saved
+
+Content/StarterContent/
+Saved/
+Intermediate/Config/CoalescedSourceConfigs/Scalability.ini
+Intermediate/
+Source/
+*.VC.db
+.vs/EscapeTheBuilding/v15/ipch/AutoPCH/dec67eae58c61a86/ESCAPETHEBUILDINGGAMEMODEBASE.ipch
+.vs/EscapeTheBuilding/v15/ipch/AutoPCH/a80d81cb08fe0d5e/ESCAPETHEBUILDING.ipch
+.vs/EscapeTheBuilding/v15/Browse.VC.opendb
