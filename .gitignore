@@ -12,3 +12,7 @@ Source/
 .vs/EscapeTheBuilding/v15/ipch/AutoPCH/dec67eae58c61a86/ESCAPETHEBUILDINGGAMEMODEBASE.ipch
 .vs/EscapeTheBuilding/v15/ipch/AutoPCH/a80d81cb08fe0d5e/ESCAPETHEBUILDING.ipch
 .vs/EscapeTheBuilding/v15/Browse.VC.opendb
+.vs/EscapeTheBuilding/v15/ipch/AutoPCH/16287a50b58d0432/OPENDOOR.ipch
+*.ipch
+*.db-shm
+*.db-wal
